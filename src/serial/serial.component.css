@@ -1,0 +1,23 @@
+.poster{
+	max-width: 80%;
+	padding-bottom: 20px;
+	
+	//top: 100%;
+
+}
+.poster-link{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	float: left;
+	top: 100%;
+	margin-left: 15px;
+
+}
+
+.col-series, .col-movies{
+	margin-bottom: 20px;
+	padding-top: 10px;
+	//padding-top: 20px;
+	//padding-bottom: 20px;
+}

@@ -1,0 +1,11 @@
+.nav-style{
+	background-color: black;
+	border-color: black;
+	color: white;
+
+}
+a.active{
+	color: #337ab7 !important;
+	text-decoration: none !important;
+
+}
